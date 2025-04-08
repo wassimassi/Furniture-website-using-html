@@ -130,6 +130,7 @@ ul{
     letter-spacing: 1px;
     color: white;
     margin: 30px 15px;
+    max-width: 80%;
 }
 .hero  .text
 {
