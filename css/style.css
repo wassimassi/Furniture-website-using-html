@@ -83,7 +83,7 @@ ul{
 /* start hero */
 .hero{
     margin-top: 65px;
-    background-image: url(../images/Living-room-interior-room-all.jfif) ;
+    background-image: url(../images/Untitled.png) ;
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -104,6 +104,7 @@ ul{
     font-weight: bold;
     font-size: 60px;
     color: #001E6C;
+    margin: 0 15px;
 }
 
 .hero button {
@@ -128,19 +129,19 @@ ul{
     font-size: 22px;
     letter-spacing: 1px;
     color: white;
-    margin-bottom: 30px;
+    margin: 30px 15px;
 }
 .hero  .text
 {
-    text-align: center;
+    text-align: left;
     color: white;
     
 
     width: 40%;
 
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 30%;
     
     transform: translate(-50%,-50%);
 }
